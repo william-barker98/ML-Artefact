@@ -1,0 +1,15 @@
+# Testing Results
+
+#k-NN
+
+Features: Home/Away Last Result:
+	32 Neighbours: 39.2% accuracy
+	
+Features: WinsSoFar:
+	43 Neighbours: 49.2% accuracy
+	
+Features: HomeTeamRanksHigher:
+	2 Neighbours: 40.2% accuracy
+
+Features: Home/Away Last Results, WinsSoFar, HomeTeamRanksHigher
+	1 Neighbour: 89.7% accuracy
