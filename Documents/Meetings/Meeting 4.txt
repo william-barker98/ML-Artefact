@@ -1,0 +1,19 @@
+50 references overall
+lit review should make up 25%
+make it a discussion
+
+talking about an artefact/test plan
+wireframes, ERDs, flowcharts
+development life cycle
+- design
+- dev
+- testing
+- analysis
+- how did you go about the task?
+
+What to do:
+	- Finish artefact
+	- Get main body done
+	- go over lit review
+
+

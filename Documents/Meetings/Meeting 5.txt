@@ -1,0 +1,5 @@
+Investigate cross-validation methods
+Investigate different scoring methods
+
+- Finish the artefact
+- Start the report

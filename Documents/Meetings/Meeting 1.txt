@@ -1,0 +1,23 @@
+// Notes from meetings
+
+- Registration form for supervisor
+- Ethics form?
+
+
+ACM Digital Library - uni login
+Science Direct
+ResearchGate
+Google Scholar
+University libary website? - can see where they get content (journal repositories)
+Kaggle, UCI ML Repository (for datasets)
+// Literature Review
+2500 - 3500 words
+30 - 35 references
+
+- Dicuss multiple papers at the same time (comparing, contrasting) "However, another paper disagrees..."
+- Make it flow
+- Don't paraphrase papers
+- Get own opinions in there "This suggests that..."
+
+
+
